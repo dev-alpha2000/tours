@@ -7,4 +7,25 @@ Expand Details: Read more or less about each tour by toggling the description.
 Remove Tour: Remove any tour from the list.
 Responsive Design: Fully responsive UI for desktop and mobile devices.
 
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/tours-app.git
+cd tours-app
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+The app will be available at http://localhost:3000.
+
 
